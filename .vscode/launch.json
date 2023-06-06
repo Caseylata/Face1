@@ -1,0 +1,11 @@
+{
+    "configurations": [
+      {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Face Recognition",
+        "url": "http://localhost:8080",
+        "webRoot": "${workspaceFolder}"
+      }
+    ]
+  }
